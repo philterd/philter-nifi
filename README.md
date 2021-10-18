@@ -1,7 +1,5 @@
 # Philter NiFi
 
-[![CircleCI](https://circleci.com/gh/mtnfog/philter-nifi.svg?style=svg)](https://circleci.com/gh/mtnfog/philter-nifi)
-
 This project contains an Apache NiFi to interact with [Philter](https://www.mtnfog.com/products/philter/) for redacting PHI and PII from text.
 
 For help please contact [support@mtnfog.com](support@mtnfog.com).

@@ -7,6 +7,7 @@
     <version>1.0.0</version>
   </parent>
   <artifactId>philter-nifi-processors</artifactId>
+  <name>philter-nifi-processors</name>
   <packaging>jar</packaging>
   <dependencies>
     <dependency>
