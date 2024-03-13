@@ -4,7 +4,7 @@
   <parent>
     <groupId>org.apache.nifi</groupId>
     <artifactId>nifi-nar-bundles</artifactId>
-    <version>1.13.2</version>
+    <version>1.25.0</version>
   </parent>
   <groupId>com.mtnfog</groupId>
   <artifactId>philter-nifi</artifactId>
@@ -41,10 +41,10 @@
     <url>https://github.com/mtnfog/philter-nifi/issues</url>
   </issueManagement>
   <properties>
-    <nifi.version>1.13.2</nifi.version>
-    <nifi.maven.plugin.version>1.3.2</nifi.maven.plugin.version>
+    <nifi.version>1.25.0</nifi.version>
+    <nifi.maven.plugin.version>1.5.1</nifi.maven.plugin.version>
     <nifi.groovy.version>2.5.6</nifi.groovy.version>
-    <philter.sdk.version>1.3.1-SNAPSHOT</philter.sdk.version>
+    <philter.sdk.version>1.3.0</philter.sdk.version>
   </properties>
   <modules>
     <module>philter-nifi-processors</module>
